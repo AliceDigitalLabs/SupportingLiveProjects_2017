@@ -6,5 +6,6 @@ The repo must be named:
 `<username/organisationname>.github.io`
 
 Alices personal github page repo would be called: AliceDigitalLabs.github.io
+And her Github Page can be found at: [AliceDigitalLabs.github.io](AliceDigitalLabs.github.io)
 
 This repo _must_ have a `/docs` folder **and** an `index.html` file in the top level. 
