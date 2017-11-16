@@ -9,3 +9,16 @@ Alices personal github page repo would be called: AliceDigitalLabs.github.io
 Her Github Page can be found at: [AliceDigitalLabs.github.io](AliceDigitalLabs.github.io)
 
 This repo _must_ have a `/docs` folder **and** an `index.html` file in the top level. 
+  
+Example `index.html`:  
+`````
+<!DOCTYPE html>
+<html>
+
+  <body>
+    HELLO WORLD! This is my github page.
+  </body>
+
+</html>
+
+`````
